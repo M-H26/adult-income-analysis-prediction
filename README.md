@@ -99,7 +99,7 @@ An interactive Power BI dashboard was developed to present the main findings in 
 
 ### Dashboard Preview
 
-![Power BI Dashboard](PowerToys_Paste_20260927151130.png)
+![Power BI Dashboard](Images/PowerToys_Paste_20260927151130.png)
 
 ## Machine Learning
 
@@ -128,7 +128,7 @@ The final Logistic Regression model achieved:
 
 ### Confusion Matrix
 
-![Confusion Matrix](Accuracy-&-CON_Matrix.png)
+![Confusion Matrix](Images/Accuracy%20&%20CON%20Matrix.png)
 
 The confusion matrix was used to examine correct and incorrect predictions for both income classes.
 
