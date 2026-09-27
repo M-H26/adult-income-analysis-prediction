@@ -128,7 +128,7 @@ The final Logistic Regression model achieved:
 
 ### Confusion Matrix
 
-![Confusion Matrix](Accuracy & CON Matrix.png)
+![Confusion Matrix](Accuracy-&-CON_Matrix.png)
 
 The confusion matrix was used to examine correct and incorrect predictions for both income classes.
 
