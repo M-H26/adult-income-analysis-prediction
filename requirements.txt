@@ -1,0 +1,11 @@
+```
+
+### 2. `requirements.txt`
+
+:::writing{variant="document" id="74106" title="requirements.txt"}
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+```

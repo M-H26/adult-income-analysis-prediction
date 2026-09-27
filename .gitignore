@@ -1,0 +1,41 @@
+Python
+
+pycache/
+*.py[cod]
+*.pyo
+*.pyd
+
+Jupyter
+
+.ipynb_checkpoints/
+
+Virtual environments
+
+venv/
+env/
+.venv/
+
+IDE
+
+.vscode/
+.idea/
+
+OS
+
+.DS_Store
+Thumbs.db
+
+Python distribution
+
+build/
+dist/
+*.egg-info/
+
+Temporary files
+
+*.tmp
+*.temp
+
+Logs
+
+*.log

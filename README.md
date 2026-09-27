@@ -217,14 +217,4 @@ GitHub: [M-H26](https://github.com/M-H26)
 
 LinkedIn: [Mohamed Hany](https://www.linkedin.com/in/mohamed-hamouda06/)
 
-```
 
-### 2. `requirements.txt`
-
-:::writing{variant="document" id="74106" title="requirements.txt"}
-pandas
-numpy
-matplotlib
-scikit-learn
-jupyter
-```
